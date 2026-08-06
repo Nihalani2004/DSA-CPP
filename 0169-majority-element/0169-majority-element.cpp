@@ -19,7 +19,7 @@ public:
 
 
 
-
+//optimal
         int cnt=0;
         int el;
 
