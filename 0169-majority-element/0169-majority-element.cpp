@@ -20,20 +20,19 @@ public:
 
 
 //optimal
-        int cnt=0;
+        
         int el;
-
+        int cnt=0;
         for(int i=0;i<n;i++){
-            if(cnt == 0){
-             cnt++;
-             el=nums[i];
-            } else if(nums[i]==el){
+            if(cnt==0){
+                cnt=1;
+                el=nums[i];
+            }else if(nums[i]==el){
                 cnt++;
             }else{
                 cnt--;
             }
         }
-
 
         int cnt1=0;
         for(int i=0;i<n;i++){
