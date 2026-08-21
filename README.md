@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nihalani2004/DSA-CPP/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Nihalani2004/DSA-CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Nihalani2004/DSA-CPP/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Nihalani2004/DSA-CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Nihalani2004/DSA-CPP/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Nihalani2004/DSA-CPP/tree/master/0189-rotate-array) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Nihalani2004/DSA-CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
