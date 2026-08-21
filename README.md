@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nihalani2004/DSA-CPP/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nihalani2004/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Nihalani2004/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Nihalani2004/DSA-CPP/tree/master/0056-merge-intervals) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nihalani2004/DSA-CPP/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Nihalani2004/DSA-CPP/tree/master/0169-majority-element) |
 ## Counting
 |  |
