@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nihalani2004/DSA-CPP/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nihalani2004/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Nihalani2004/DSA-CPP/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Nihalani2004/DSA-CPP/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Nihalani2004/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nihalani2004/DSA-CPP/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nihalani2004/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Nihalani2004/DSA-CPP/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Nihalani2004/DSA-CPP/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Nihalani2004/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 ## Bubble Sort
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nihalani2004/DSA-CPP/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Nihalani2004/DSA-CPP/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
