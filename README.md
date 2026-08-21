@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nihalani2004/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Nihalani2004/DSA-CPP/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Nihalani2004/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nihalani2004/DSA-CPP/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
 | ------- |
