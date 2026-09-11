@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Nihalani2004/DSA-CPP/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Nihalani2004/DSA-CPP/tree/master/0189-rotate-array) |
 ## Backtracking
 |  |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nihalani2004/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Nihalani2004/DSA-CPP/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
