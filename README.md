@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nihalani2004/DSA-CPP/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Nihalani2004/DSA-CPP/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nihalani2004/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Nihalani2004/DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Nihalani2004/DSA-CPP/tree/master/0056-merge-intervals) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nihalani2004/DSA-CPP/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nihalani2004/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Nihalani2004/DSA-CPP/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Nihalani2004/DSA-CPP/tree/master/0189-rotate-array) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Nihalani2004/DSA-CPP/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Nihalani2004/DSA-CPP/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
