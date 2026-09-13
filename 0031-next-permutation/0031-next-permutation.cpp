@@ -28,11 +28,12 @@ public:
 
 
         // reverse the rightmost element after pivot
-        int i=piv+1;
-        int j=n-1;
-        while(i<=j){
-            swap(nums[i++],nums[j--]);
-        }
+        // int i=piv+1;
+        // int j=n-1;
+        // while(i<=j){
+        //     swap(nums[i++],nums[j--]);
+        // }
+        reverse(nums.begin()+piv+1, nums.end());
 
     }
 };
