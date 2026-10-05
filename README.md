@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nihalani2004/DSA-CPP/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Nihalani2004/DSA-CPP/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Nihalani2004/DSA-CPP/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Nihalani2004/DSA-CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nihalani2004/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Nihalani2004/DSA-CPP/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nihalani2004/DSA-CPP/tree/master/0977-squares-of-a-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nihalani2004/DSA-CPP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nihalani2004/DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nihalani2004/DSA-CPP/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Nihalani2004/DSA-CPP/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nihalani2004/DSA-CPP/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nihalani2004/DSA-CPP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/Nihalani2004/DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Nihalani2004/DSA-CPP/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Nihalani2004/DSA-CPP/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nihalani2004/DSA-CPP/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -82,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nihalani2004/DSA-CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nihalani2004/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nihalani2004/DSA-CPP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nihalani2004/DSA-CPP/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -116,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Nihalani2004/DSA-CPP/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Nihalani2004/DSA-CPP/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Nihalani2004/DSA-CPP/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
